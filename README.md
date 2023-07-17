@@ -1,3 +1,9 @@
+# Shopify Buy SDK with Tags
+
+This is simply a fork of the original buy SDK with tags enabled on the product queries by default. Based on spence's [original](https://github.com/spence-s/js-buy-sdk) 
+This was such a deal breaker for me when I first started using the package that I felt it would be good to just republish the package exactly the same but with tags enabled. 
+I might keep this package up to date with the original library with this added feature. 
+
 # [Shopify](https://www.shopify.com) JavaScript Buy SDK
 ![Build](https://github.com/shopify/js-buy-sdk/actions/workflows/ci.yml/badge.svg)
 
